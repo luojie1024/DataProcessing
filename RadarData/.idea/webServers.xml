@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2ef71a2f-c0f0-41e5-a0f4-1d6efa78b62e" name="readarData" url="http://49.123.114.90">
+        <fileTransfer host="49.123.114.90" port="22" rootFolder="/home/cs/luojie/Datawork/RadarData" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
